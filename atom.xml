@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>most-silence</subtitle>
   <link href="http://most-silence.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://most-silence.gitee.io/"/>
