@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>沉默的池塘</title>
   
   <subtitle>most-silence</subtitle>
   <link href="http://most-silence.gitee.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://most-silence.gitee.io/</id>
   
   <author>
-    <name>most-silence</name>
+    <name>Leo Sharh</name>
     
   </author>
   
