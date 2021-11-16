@@ -3,11 +3,11 @@
   <title>沉默的池塘</title>
   
   <subtitle>most-silence</subtitle>
-  <link href="http://most-silence.gitee.io/atom.xml" rel="self"/>
+  <link href="http://most-silence.top/atom.xml" rel="self"/>
   
-  <link href="http://most-silence.gitee.io/"/>
-  <updated>2021-11-10T10:01:34.284Z</updated>
-  <id>http://most-silence.gitee.io/</id>
+  <link href="http://most-silence.top/"/>
+  <updated>2021-11-16T00:01:38.704Z</updated>
+  <id>http://most-silence.top/</id>
   
   <author>
     <name>Leo Sharh</name>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>BookList</title>
+    <link href="http://most-silence.top/2021/11/16/BookList/"/>
+    <id>http://most-silence.top/2021/11/16/BookList/</id>
+    <published>2021-11-15T23:46:24.000Z</published>
+    <updated>2021-11-16T00:01:38.704Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;博赞学习技巧&quot;&gt;&lt;a href=&quot;#博赞学习技巧&quot; class=&quot;headerlink&quot; title=&quot;博赞学习技巧&quot;&gt;&lt;/a&gt;博赞学习技巧&lt;/h3&gt;&lt;h4 id=&quot;豆瓣地址&quot;&gt;&lt;a href=&quot;#豆瓣地址&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://most-silence.top/categories/Markdown/"/>
+    
+    
+    <category term="Book" scheme="http://most-silence.top/tags/Book/"/>
+    
+    <category term="Reading" scheme="http://most-silence.top/tags/Reading/"/>
+    
+  </entry>
+  
+  <entry>
     <title>成长之路</title>
-    <link href="http://most-silence.gitee.io/2021/11/10/MyLife/"/>
-    <id>http://most-silence.gitee.io/2021/11/10/MyLife/</id>
+    <link href="http://most-silence.top/2021/11/10/MyLife/"/>
+    <id>http://most-silence.top/2021/11/10/MyLife/</id>
     <published>2021-11-10T06:05:52.000Z</published>
-    <updated>2021-11-10T10:01:34.284Z</updated>
+    <updated>2021-11-15T23:11:57.669Z</updated>
     
     
       
@@ -34,19 +61,19 @@
     
     
     
-    <category term="Jotting" scheme="http://most-silence.gitee.io/categories/Jotting/"/>
+    <category term="Jotting" scheme="http://most-silence.top/categories/Jotting/"/>
     
     
-    <category term="成长" scheme="http://most-silence.gitee.io/tags/%E6%88%90%E9%95%BF/"/>
+    <category term="成长" scheme="http://most-silence.top/tags/%E6%88%90%E9%95%BF/"/>
     
-    <category term="回顾" scheme="http://most-silence.gitee.io/tags/%E5%9B%9E%E9%A1%BE/"/>
+    <category term="回顾" scheme="http://most-silence.top/tags/%E5%9B%9E%E9%A1%BE/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="http://most-silence.gitee.io/2021/09/25/test/"/>
-    <id>http://most-silence.gitee.io/2021/09/25/test/</id>
+    <link href="http://most-silence.top/2021/09/25/test/"/>
+    <id>http://most-silence.top/2021/09/25/test/</id>
     <published>2021-09-25T13:08:22.000Z</published>
     <updated>2021-09-25T13:08:22.699Z</updated>
     
@@ -58,8 +85,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://most-silence.gitee.io/2021/09/25/hello-world/"/>
-    <id>http://most-silence.gitee.io/2021/09/25/hello-world/</id>
+    <link href="http://most-silence.top/2021/09/25/hello-world/"/>
+    <id>http://most-silence.top/2021/09/25/hello-world/</id>
     <published>2021-09-25T12:29:09.319Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     

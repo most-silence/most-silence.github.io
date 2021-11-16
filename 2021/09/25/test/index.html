@@ -257,6 +257,19 @@
 </header>
 
     
+<script src="https://cdn.jsdelivr.net/gh/most-silence/most-silence.github.io/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -460,7 +473,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://most-silence.gitee.io/2021/09/25/test/">http://most-silence.gitee.io/2021/09/25/test/</a>
+                    <a href="http://most-silence.top/2021/09/25/test/">http://most-silence.top/2021/09/25/test/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -539,7 +552,7 @@
         clientSecret: 'ed8a3dcc23ad604dada1b7a4a2a4fb3dbd8086ff',
         repo: 'most-silence.github.io',
         owner: 'most-silence',
-        admin: "Leo Sharh",
+        admin: "most-silence",
         id: '2021-09-25T21-08-22',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
@@ -853,7 +866,7 @@
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">2.2k</span>
+                        class="white-color">2.8k</span>
             
             
             
